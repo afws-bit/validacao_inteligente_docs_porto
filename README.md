@@ -1,4 +1,4 @@
-Aluno: Augusto Freitas   ADS Regular Cesar School
+Aluno: Augusto Freitas --  ADS Regular Cesar School --
 Turma: Avanade 2
 
 # validacao_inteligente_docs_porto
