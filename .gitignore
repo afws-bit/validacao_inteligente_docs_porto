@@ -1,0 +1,6 @@
+# Ignorar arquivos compilados
+target/
+*.class
+
+# Ignorar configurações locais com segredos
+src/main/resources/application.properties
